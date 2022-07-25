@@ -48,7 +48,7 @@ freq.BodyAccJerkMag\
 freq.BodyGyroMag\
 freq.BodyGyroJerkMag
 
-Mean (mean) and standard deviation (std) was estimated from these signals.
+Mean (mean) and standard deviation (std) were estimated from these signals.
 
 **Additional transformations and calculations within the Coursera project:**
 
