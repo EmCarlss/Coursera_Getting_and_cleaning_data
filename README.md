@@ -54,3 +54,8 @@ Step 9. Group by subject.id and activity.id and adding activity labels (improvin
 Step 10. Removing "help" columns from the group by operation
 
 Step 11. Exporting the final data to chosen directory (final_df.txt)
+
+**Thanks**
+The script above was inspired by useful guidelines from David Hood and Luis A Sandino
+https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
+https://drive.google.com/file/d/0B1r70tGT37UxYzhNQWdXS19CN1U/view?usp=sharing
